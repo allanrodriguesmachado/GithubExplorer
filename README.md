@@ -1,3 +1,3 @@
 # GithubExplorer
 
-<img src="read-me/app-preview.jpeg" alt="Next Level Week Esports Logo"/></p>
+<img src="https://github.com/allanrodriguesmachado/GithubExplorer/blob/main/public/assets/GithubExplorer.png" alt="Next Level Week Esports Logo"/></p>
