@@ -3,6 +3,7 @@ section.repository-list {
 
     h1 {
         margin-bottom: 16px;
+        color: #57e693;
     }
 
     ul {
@@ -10,11 +11,12 @@ section.repository-list {
         li {
             & + li {
                 margin-top: 20px;
+                color: #868686;
             }
 
             p{
                 font-size: 14px;
-                color: #444;
+                color: #868686;
                 margin-top: 8px;
             }
 
@@ -22,7 +24,7 @@ section.repository-list {
                 display: inline-block;
                 margin-top: 16px;
                 text-decoration: none;
-                color: #8257e6;
+                color: #57e6b6;
             }
         }
     }
